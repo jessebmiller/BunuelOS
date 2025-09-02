@@ -2,7 +2,7 @@
 
 My personal fedora atomic distro. Feel free to use it, but I didn't make it for general use.
 
-# Building and Using Your Custom bootc Image (according to ClaudeAI)
+## Building and Using Your Custom bootc Image (according to ClaudeAI)
 
 ## 1. Build the Container Image
 
